@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.valse",
+  "repo": "NDesumeur/neodex-plugin-valse-phone",
+  "version": "1.0.0",
+  "sha256": "a5f3f340c1eefcd6aad1ef11688a0ffeba5c604e55f17f7fa48ef799b200902d",
+  "approvedAt": "2026-11-24T15:56:21.968Z",
+  "neobase": ">=4.1.0",
+  "signature": "diDqdRPTXm2Mla9A1FvBfWY1E2C4RJJ47AbhUWLF3QCyyiWLGIgjTzr9/5RIebbg/kTqx7lYNvIGIKYKjC7oCQ=="
+}
